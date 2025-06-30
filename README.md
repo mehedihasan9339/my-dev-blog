@@ -11,6 +11,7 @@ Welcome to my development blog! I'm a **.NET developer** exploring various techn
 - **Data Types**: [Read More](c-sharp/data-types.md)
 - **Control Flow**: [Read More](c-sharp/control-flow.md)
 - **Functions & Methods**: [Read More](c-sharp/functions-methods.md)
+- **OOP in C#**: [Read More](c-sharp/oop.md)
 
 ### 📊 **SQL Server**
 
