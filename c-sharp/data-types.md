@@ -1,11 +1,14 @@
 # C# Data Types
 
+![C# Logo](/images/csharpdatatypes.png)
+
 ## Value Types
 
 ### `int` - Integer (Whole Number)
+
 ```csharp
 int age = 25;  // Stores a whole number
-````
+```
 
 ### `double` - Floating Point Number (Decimal)
 
@@ -42,7 +45,6 @@ byte smallNumber = 100;  // Stores small whole numbers (0 to 255)
 ```csharp
 decimal price = 19.99m;  // Stores a precise decimal value
 ```
-
 
 ## Reference Types
 
@@ -88,10 +90,9 @@ double pi = 3.14;
 int roundedPi = (int)pi;  // Explicit conversion (double to int), truncates decimal part
 ```
 
-
 ### Explanation:
+
 - **Value Types**: Store the actual data. These include `int`, `double`, `float`, `char`, `bool`, `byte`, and `decimal`.
 - **Reference Types**: Store references to the data in memory. These include `string` and `object`.
 - **Nullable Types**: Allow value types to hold a `null` value.
 - **Type Conversion**: Demonstrates how data types are converted between each other, both implicitly and explicitly.
-
