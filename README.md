@@ -1,4 +1,4 @@
-# 🌟 **My Dev Blog: Index**
+# 🌟 **My Dev Blog**
 
 Welcome to my development blog! I'm a **.NET developer** exploring various technologies. Below is a **structured index** of all my blog posts, organized by category.
 
