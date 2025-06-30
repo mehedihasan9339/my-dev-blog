@@ -8,7 +8,7 @@ Welcome to my development blog! I'm a **.NET developer** exploring various techn
 
 ### 🖥️ **C# Programming**
 
-- **C# Data Types**: [Read More](csharp/data-types.md)
+- **C# Data Types**: [Read More](c-sharp/data-types.md)
 
 ### 📊 **SQL Server**
 
